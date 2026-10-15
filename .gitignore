@@ -1,0 +1,25 @@
+# Your private files (resume and details). Only the example is shared.
+my-files/*
+!my-files/my-details.example.md
+
+# Everything the agents write
+output/
+
+# Playwright MCP snapshots and screenshots
+.playwright-mcp/
+
+# Local Claude Code settings
+.claude/settings.local.json
+
+# Secrets
+.env
+.env.*
+
+# Node
+node_modules/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
