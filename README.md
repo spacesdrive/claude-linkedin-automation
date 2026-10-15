@@ -2,6 +2,8 @@
 
 Find fresh LinkedIn jobs that match your resume and apply to them with Easy Apply, using Claude Code and a real browser.
 
+Read the full walkthrough on my blog: [how I use it to find fresh LinkedIn jobs with Claude Code](https://blog.ujjwal.fyi/i-gave-claude-my-resume-and-it-found-25-fresh-jobs-in-5-minutes/), with setup, a daily workflow and what to watch out for.
+
 - `/find-jobs` reads your resume, searches LinkedIn, and saves matching job links.
 - `/apply-jobs` applies to those jobs with your details and logs every result.
 
